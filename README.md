@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Francozed
-- 👀 I’m interested in WEb Delopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me udofrancis10@gmail.com
+- 📫 How to reach me udofrancis10@gmail.com // 08108408611
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Am a Virgo
 
